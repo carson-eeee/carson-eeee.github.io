@@ -1,10 +1,12 @@
 body{
     background-color: black;
-}
-h1{
     color:aliceblue;
 }
 #prompt{
     color:aliceblue;
     
+}
+button{
+    margin:1% ;
+    background-color:aqua ;
 }

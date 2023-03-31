@@ -10,6 +10,6 @@ function imgclick(){
   }
 document.getElementById("myButton").onclick = function(){
   var myName = document.getElementById("myText").value;
-  var print = document.getElementById("print");
-  print.innerHTML=("hello",myName);
+  var printname = document.getElementById("print");
+  printname.innerHTML=("hello",myName);
 }
